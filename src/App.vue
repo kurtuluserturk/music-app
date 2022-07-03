@@ -57,12 +57,6 @@ export default {
           title: "Cahildim Dünyanın Rengine Kandım",
           artist: "Neşet Ertaş",
           src: require("./assets/cahildim-dunyanin-rengine-kandim.mp3"),
-        },
-        {
-          id: 3,
-          title: "Short Song",
-          artist: "TEST",
-          src: require("./assets/short-song.mp3"),
         },        
       ],
     };
