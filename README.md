@@ -1,4 +1,6 @@
 # music-app
+# Live Demo
+https://music-app-vue2.netlify.app/
 
 ## Project setup
 ```
