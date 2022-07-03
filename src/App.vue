@@ -63,8 +63,7 @@ export default {
           title: "Short Song",
           artist: "TEST",
           src: require("./assets/short-song.mp3"),
-        },
-        
+        },        
       ],
     };
   },
@@ -107,7 +106,6 @@ export default {
   created() {
     this.currentSong = this.songs[this.index];
     this.player.src = this.currentSong.src;
-    // this.player.play()
   },
 };
 </script>
